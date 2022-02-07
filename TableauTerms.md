@@ -1,0 +1,43 @@
+# Tableau terms and definitions
+- Save metadata properties to .TDS
+- Live connection vs Extract
+- Relationships 
+- Joins/unions
+- Bar Chart
+- Line Chart
+- Scatterplot
+- Create a map
+- Combined axis chart
+- Dual axis chart
+= Scacked bar
+- Density Map
+- Crosstab/Highlight table
+- Dimensions vs Measure
+- Aggregated measure
+- Create Groups
+- Create Sets
+- Hierarchy
+- Add filter to a view
+- Manual or computed sort
+- Add a reference line
+- Quick table calculation
+- Bins and histograms
+- When to use a parameter
+- Configure fonts
+- Format marks as shapes
+- Viz animations
+- Show/hide ledgends 
+- Data highlighter on dashboard
+- Dashboard actions (filter actions, highlight actions, parameter control, URL Action)
+- Device specific dashboard layout
+- Story
+- Story Point
+- Export underlying data
+- What kind of info do dimensions usually have?
+- What kind of info do meaures usually contain?
+- How discrete fields are displayed
+- How continuous fields are displayed
+- Discrete date parts vs continuous date parts
+- Explain default aggregation for meaures
+- Describe how aggregated measure changes when dimensions are added to a view
+- ODBC
