@@ -1,15 +1,26 @@
 # Tableau terms and definitions
 - Save metadata properties to .TDS
+    - Data pane > right click on data source and then click "Add to saved Data Sources". Select .tds for the file name 
 - Live connection vs Extract
+    - Live allows you to view real time data and extracts are kind of a batch which needs to be refreshed from time to time
 - Relationships 
+    - Relationships are a way to combine the data while keeping the tables seperate and does not merge the data into a single table. They maintain the same level of detail in the data source
 - Joins/unions
+    -Using a join or a union will combine two tables into one 
 - Bar Chart
+    - Place a dimension on the rows shelf and a measure on the columns shelf, and vice versa
 - Line Chart
 - Scatterplot
+    - Place at least one measure on the columns shelf and at least one measure on the rows shelf
 - Create a map
+    - Prerequsite: your data source must contain location data (location names, latitude or longitude coordiantes, etc)
 - Combined axis chart
+    - This merges two or more measures into a single axis so you can plot as many measures as you'd like in the same chary
 - Dual axis chart
-= Scacked bar
+    - This creates two independent acis (Which you can syncronize) that you can plot two seperate measures on the same chart. It lets you create seperate marks cards for each measure
+- Scacked bar
+    - 
+
 - Density Map
 - Crosstab/Highlight table
 - Dimensions vs Measure
